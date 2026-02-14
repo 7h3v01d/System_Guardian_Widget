@@ -39,6 +39,6 @@ python main.py
 - System Tray: Use the tray icon to toggle visibility or exit the application completely.
 
 ## 📁 Project Structure
-`.py`: The main entry point containing the UI logic, Guardian Engine, and Controller.
+`main.py`: The main entry point containing the UI logic, Guardian Engine, and Controller.
 
 `settings.json`: (Generated) Stores persistent window coordinates and user configurations.
